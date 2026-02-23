@@ -1,4 +1,8 @@
-# Ω-1 Promoter Pledge Intelligence System
+> # Ω-1 Promoter Pledge Intelligence System
+
+> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://omega-promoter-pledge-intelligence-system-326nbvafazfrcdfskqjc.streamlit.app)
+
+> **🌐 Live Demo**: [Try the Ω-1 Pledge Tracker Here](https://omega-promoter-pledge-intelligence-system-326nbvafazfrcdfskqjc.streamlit.app)
 
 > ⚠️ **DISCLAIMER: Educational Purpose Only**  
 > - **Data**: The dataset included (`sample_data.csv`) contains **synthetic/illustrative data** using real company names for demonstration purposes only.  
@@ -114,6 +118,8 @@ streamlit run app.py
 - Quarter
 - Promoter Holding (%)
 - Pledged Shares (%)
+
+- 
 
 ---
 
