@@ -127,4 +127,7 @@ streamlit run app.py
 
 This project was built to explore quantitative approaches to governance risk monitoring and financial risk analytics using structured financial data.
 
+- Part of Ω-1 Sovereign Engine research initiative
+- Built by Shivam Gupta
+
 It demonstrates the application of financial logic, risk modeling, and dashboard-based analytics in a scalable framework.
