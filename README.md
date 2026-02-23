@@ -71,6 +71,19 @@ Companies are classified as:
 
 ---
 
+## 📸 Dashboard Preview
+
+### Market Risk Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Top Risk Companies
+![Risk Table](screenshots/risk_table.png)
+
+### Company-Level Analysis
+![Company Analysis](screenshots/company_analysis.png)
+
+---
+
 ## Tech Stack
 
 - Python
