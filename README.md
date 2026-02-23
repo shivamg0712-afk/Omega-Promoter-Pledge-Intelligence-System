@@ -1,5 +1,16 @@
 # Ω-1 Promoter Pledge Intelligence System
 
+> ⚠️ **DISCLAIMER: Educational Purpose Only**  
+> - **Data**: The dataset included (`sample_data.csv`) contains **synthetic/illustrative data** using real company names for demonstration purposes only.  
+> - **Accuracy**: Values do not reflect actual SEBI/BSE filings or real-time market conditions.  
+> - **Usage**: This tool is for **learning and portfolio demonstration** only. It is **NOT investment advice**.  
+> - **Liability**: Do not make trading or investment decisions based on this prototype.
+
+---
+
+## Overview
+The Ω-1 Promoter Pledge Intelligence System is a quantitative governance risk monitoring framework...
+
 ## Overview
 
 The Ω-1 Promoter Pledge Intelligence System is a quantitative governance risk monitoring framework designed to assess promoter pledge risk across Indian listed companies.
