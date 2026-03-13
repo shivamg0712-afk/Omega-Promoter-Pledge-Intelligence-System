@@ -13,9 +13,6 @@
 ---
 
 ## Overview
-The Ω-1 Promoter Pledge Intelligence System is a quantitative governance risk monitoring framework...
-
-## Overview
 
 The Ω-1 Promoter Pledge Intelligence System is a quantitative governance risk monitoring framework designed to assess promoter pledge risk across Indian listed companies.
 
